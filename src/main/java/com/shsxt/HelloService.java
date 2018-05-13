@@ -6,6 +6,7 @@ package com.shsxt;
 public class HelloService {
     public void test ()  {
         System.out.println("hello spring");
+        System.out.println("hello spring01");
     }
 
 }
